@@ -1,8 +1,4 @@
 prova
 test
 fffff
-<<<<<<< HEAD
-zzzzzzzzzzzzzzzzzz
-=======
 eeeeeeeeeeeeeeee
->>>>>>> 1c5638b467c1ff56e9e4571edf8ffc54dc72fdcf
